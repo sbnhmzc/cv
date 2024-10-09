@@ -48,7 +48,7 @@ export const workExperience = [
     skills: ["Wordpress"],
   },
   {
-    duration: "September, 2016 - December, 2019",
+    duration: "September, 2016 - April, 2019",
     name: ".east",
     slogan: "Web and Software Development Agency",
     website: "/",
