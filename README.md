@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# CV project was built on basis of React's "Getting started" app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
