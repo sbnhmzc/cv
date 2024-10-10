@@ -9,7 +9,7 @@ import { technologies } from "./data/skills";
 
 function App() {
   return (
-    <div className="container mx-auto font-sans py-20 text-gray-600">
+    <div className="container mx-auto font-sans py-20 text-gray-600 px-4">
       <Header></Header>
       <AboutMe></AboutMe>
       <div className="border-b-2 mb-8 border-blue-200"></div>
