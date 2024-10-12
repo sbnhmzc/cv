@@ -4,7 +4,7 @@ export const workExperience = [
     name: "Rally Commerce Inc.",
     slogan: "Post Purchase Offers & Order Bump Solutions",
     website: "https://rallyon.com/",
-    title: "Front-end Engineer",
+    title: "Senior Front-end Engineer",
     description: [
       {
         type: "text",
@@ -20,7 +20,7 @@ export const workExperience = [
     name: "Walter Code",
     slogan: "Development Consulting Company",
     website: "https://waltercode.com/",
-    title: "Front-end Engineer, Web Developer",
+    title: "Senior Front-end Engineer, Web Developer",
     description: [
       {
         type: "text",
