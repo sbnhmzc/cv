@@ -7,7 +7,7 @@ export default function Header() {
             Sabina Hamzić
           </h1>
           <h4 className="text-lg md:text-4xl font-semibold">
-            Front-end engineer
+            Senior Front-end engineer
           </h4>
         </div>
         <div className="socials pl-5 border-l-4 border-yellow-500 py-20 align-middle">
