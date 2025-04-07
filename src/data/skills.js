@@ -5,7 +5,7 @@ export const technologies = [
     description: [
       {
         type: "text",
-        text: `I have started to learn Ract in my free time. First example of its usage is this very CV.`,
+        text: `I began learning React in my free time as soon as it was introduced to the market, driven by my curiosity as a frontend developer. The first example of its usage is this very CV, which proved to be incredibly handy when an opportunity arose to integrate it with Rally elements.`,
       },
     ],
   },

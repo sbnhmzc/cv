@@ -8,12 +8,17 @@ export const workExperience = [
     description: [
       {
         type: "text",
-        text: `As a Frontend Engineer at Rally, I contributed to various user-facing components of Rally's checkout solution.
-        I leveraged both Angular and Vanilla JavaScript to deliver efficient and innovative solutions in my daily work. Specifically interesting part to me was using Angular Elements
-        in order to achieve granularity and enable different combination of each and every small part of the checkout page.`,
+        text: `As a Senior Frontend Engineer, I leveraged Angular, Vanilla JavaScript, and React to quickly iterate on customer-facing features. One particularly interesting aspect was using Angular Elements to achieve granularity and enable different combinations of each small component on the checkout page. These elements were then combined to fulfill the client's specific needs.`,
       },
     ],
-    skills: ["Angular", "Angular Elements", "Typescript", "Jest"],
+    skills: [
+      "Typescript",
+      "Angular",
+      "Angular Elements",
+      "React",
+      "Jest",
+      "Jasmine",
+    ],
   },
   {
     duration: "April, 2019 - April, 2021",
